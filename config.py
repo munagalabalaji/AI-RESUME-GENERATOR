@@ -29,7 +29,7 @@ class Config:
     MAX_CONTENT_LENGTH = 16 * 1024 * 1024  # 16MB max upload size
     
     # API Keys
-    GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
+    GEMINI_API_KEY = os.environ.get('Q.Ab8RN6ICRelOdsNHEyRXo8Cy5Psn0syZ-9Vtj12fAimxNuQ8pw')
     
     # Admin settings
     ADMIN_EMAIL = os.environ.get('ADMIN_EMAIL', 'admin@resumegen.com')
